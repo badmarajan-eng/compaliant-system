@@ -1,0 +1,6 @@
+{
+  "name": "Q-INTELLIGENCE — AI Customer Complaint Analytics & QMS (PS-036)",
+  "description": "AI-powered manufacturing quality management system for customer complaint analytics, root cause identification, risk prediction, and CAPA effectiveness monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
